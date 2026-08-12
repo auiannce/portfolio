@@ -1,31 +1,29 @@
-Photon by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Auiannce Euwing - Personal Portfolio Website
 
+This repository contains the source code for the personal portfolio website of **Auiannce Euwing**, a Computer Science graduate from Carleton College specializing in cybersecurity, data analytics, and software development. 
 
-A simple (gradient-heavy) single pager that revisits a style I messed with on two
-previous designs (Tessellate and Telephasic). Fully responsive, built on Sass,
-and, as usual, loaded with an assortment of pre-styled elements. Have fun! :)
+The site highlights professional experience, technical skills, research publications, posters, and featured projects.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+---
 
-(* = Not included)
+## Highlights & Sections
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+* **About Me**: Brief background detailing expertise in information security, data science, IT support, and enterprise systems.
+* **Featured Project**: Showcase of automated technology check scheduling built for Carleton College.
+* **Posters & Publications**:
+  * **Algorithms in Real Life**: Poster and teaching materials on algorithmic decision-making and bias.
+  * **Maximizing Player Satisfaction**: Research poster on equilibrium strategies in semi-cooperative two-player games (TACC / REU).
+  * **Research Paper**: Companion paper on Pareto accumulation strategies for temporal goals[cite: 1].
+* **Resources**: Direct download access to resume PDF and academic documents[cite: 1].
 
-AJ
-aj@lkn.io | @ajlkn
+---
 
+## Repository Structure
 
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+```text
+├── index.html              # Main HTML document[cite: 1]
+├── assets/                 # Stylesheets, vendor scripts, and UI helpers[cite: 1]
+│   ├── css/                # CSS stylesheets (main.css, noscript.css)[cite: 1]
+│   └── js/                 # JavaScript dependencies (jQuery, Scrolly, etc.)[cite: 1]
+├── images/                 # Headshot and preview image assets[cite: 1]
+└── PersonalFiles/          # Downloadable PDF documents (Resume, Posters, Papers)[cite: 1]
